@@ -47,6 +47,15 @@
                Consortium's Board of Directors.</note>
          </person>
 
+		 <person xml:id="person-JMH001">
+            <persName>Jona Marie Hassenbach</persName>
+            <affiliation ref="#org-NU01">ACDH</affiliation>
+            <faith>None</faith>
+            <socecStatus>Variable</socecStatus>
+            <nationality>German</nationality>
+            <note>I like cats</note>
+         </person>
+
       </listPerson>
 
       <!-- Place entities are stored in a <listPlace> element -->
